@@ -1,4 +1,4 @@
-== Instalação do projeto
+###Instalação do projeto
 
 Instale o RVM seguindo o tutorial do site deles
 -------------
